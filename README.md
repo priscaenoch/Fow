@@ -65,3 +65,8 @@ npm run start:dev
 ```
 
 See [DOCKER_SETUP.md](./DOCKER_SETUP.md) for detailed instructions and optional development tools.
+
+## Handsoff notes
+
+<!-- handsoff-issue-45 -->
+- #45: feat(contracts): time-locked funds machinery — deadlines, permissionless expiry cranks, campaign tranches, dispute/pause precedence
